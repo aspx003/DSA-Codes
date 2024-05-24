@@ -1,5 +1,8 @@
-*.class
 *.exe
 *.xopp
 main.cpp
 *.txt
+
+bin
+.cph
+.vscode
