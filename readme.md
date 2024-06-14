@@ -4,6 +4,8 @@
 
 ## Todos
 
-- [] CPP setup
-- [] Java Linting
-- [] Python🤔
+- [x] CPP
+- [ ] JAVA
+- [ ] CPP Linting
+
+Thiniking of moving to codeblocks.
